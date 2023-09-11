@@ -19,8 +19,8 @@ app.get("/get_info", (req, res) => {
 
   // GitHub URLs
   const github_file_url =
-    "https://github.com/username/repo/blob/main/file_name.ext";
-  const github_repo_url = "https://github.com/username/repo";
+    "https://github.com/Amin0001/BackendTask1/main/app.js";
+  const github_repo_url = "https://github.com/Amin0001/BackendTask1";
 
   // Create the JSON response
   const response_data = {

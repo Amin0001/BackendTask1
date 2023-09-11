@@ -19,7 +19,7 @@ app.get("/get_info", (req, res) => {
 
   // GitHub URLs
   const github_file_url =
-    "https://github.com/Amin0001/BackendTask1/main/app.js";
+    "https://github.com/Amin0001/BackendTask1/blob/main/app.js";
   const github_repo_url = "https://github.com/Amin0001/BackendTask1";
 
   // Create the JSON response
